@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  juneso-o
 
 # Build settings
-theme: minima
+theme: monokai
 plugins:
   - jekyll-feed
 
